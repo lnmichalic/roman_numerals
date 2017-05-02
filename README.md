@@ -1,6 +1,6 @@
-#Roman Numerals
+#Roman Numerals!
 
 ## How to use
 
-run 
+run
 'ruby roman_numerals.rb'
